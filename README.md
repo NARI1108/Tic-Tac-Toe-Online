@@ -19,3 +19,21 @@
   </ul> 
 
 <code><strong>The purpose of making this application is to familiarize with the following:</strong></code>
+
+<ul>
+    <li>
+         Material design training (making a snack bar).
+    </li>
+    <li>
+         Teaching test design in Java language.
+    </li>
+    <li>
+        How to make a Timer in Android Studio.
+    </li>
+    <li>
+        Teaching how to sign the program and exit from it.
+    </li>
+  <li>
+        Intent training (contact us via Telegram section).
+  </li>
+</ul>
