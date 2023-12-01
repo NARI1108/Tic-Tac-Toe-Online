@@ -6,3 +6,5 @@
 </h3>
 
 ## ✨TicTacToe Online Vidoe
+
+## <code><strong>About App</strong></code> ##
